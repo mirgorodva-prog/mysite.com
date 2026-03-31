@@ -1,2 +1,2 @@
-# mysite.com
+# mysite.github.io
 My first site on GitHub
